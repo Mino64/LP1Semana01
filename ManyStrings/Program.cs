@@ -6,7 +6,12 @@ namespace ManyStrings
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            string testingEmoji ="this be an emoji \u2622";
+            string unicode = "this is a \t tab ";
+        
+            Console.WriteLine(testingEmoji);
+            Console.WriteLine(unicode);
+
         }
     }
 }
