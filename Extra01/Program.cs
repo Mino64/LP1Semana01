@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace E01
+namespace Extra01
 {
     public class Program
     {
